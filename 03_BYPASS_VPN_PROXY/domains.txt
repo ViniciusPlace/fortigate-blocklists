@@ -1,0 +1,15 @@
+protonvpn.com
+nordvpn.com
+expressvpn.com
+surfshark.com
+windscribe.com
+privadovpn.com
+tunnelbear.com
+hide.me
+psiphon.ca
+ultrasurf.us
+1.1.1.1
+adguard-dns.io
+cloudflare-dns.com
+blockaway.net
+croxyproxy.com
