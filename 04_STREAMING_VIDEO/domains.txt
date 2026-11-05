@@ -34,5 +34,3 @@ vimeo.com
 www.vimeo.com
 dailymotion.com
 www.dailymotion.com
-youtube.com
-www.youtube.com
