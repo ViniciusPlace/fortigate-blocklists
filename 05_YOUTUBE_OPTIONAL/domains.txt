@@ -1,6 +1,12 @@
 youtube.com
+www.youtube.com
 youtu.be
+www.youtu.be
 youtube-nocookie.com
+www.youtube-nocookie.com
 googlevideo.com
+www.googlevideo.com
 ytimg.com
+www.ytimg.com
 youtubei.googleapis.com
+www.youtubei.googleapis.com
